@@ -7,7 +7,7 @@ I am a Creative Developer and Full-Stack Engineer focused on building scalable, 
 I am currently working as a **Web Developer at AIT Technology**, building enterprise-grade systems and managing responsive digital platforms.
 
 ### 🛠️ Tools & Tech
-* **Development:** React, Laravel, PHP, WordPress, Python, SQL
+* **Development:** React, Laravel, PHP, WordPress, Python, SQL, Html, CSS
 * **Design:** Adobe Creative Suite, Motion Graphics
 
 ### 📫 How to Reach Me
