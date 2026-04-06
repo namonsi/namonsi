@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Nahom Simon
 
-<!--
-**namonsi/namonsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Who Am I
+I am a Creative Developer and Full-Stack Engineer focused on building scalable, high-performance web applications that bridge complex logic with elegant design.
 
-Here are some ideas to get you started:
+### 💼 Current Work
+I am currently working as a **Web Developer at AIT Technology**, building enterprise-grade systems and managing responsive digital platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Tech
+* **Development:** React, Laravel, PHP, WordPress, Python, SQL
+* **Design:** Adobe Creative Suite, Motion Graphics
+
+### 📫 How to Reach Me
+* **Email:** [nahom21simon@gmail.com](mailto:nahom21simon@gmail.com)
+* **Portfolio:** [nahom.ct.ws](https://nahom.ct.ws/)
+* **Location:** Addis Ababa, Ethiopia
