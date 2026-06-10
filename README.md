@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=namonsi&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -29,16 +29,16 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&sideLabels=FFFFFF&stroke=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namonsi&theme=react&hide_border=true&background=0D1117&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&sideLabels=FFFFFF&stroke=FFFFFF" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=namonsi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namonsi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00D2FF&line=00D2FF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namonsi&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00D2FF&line=00D2FF&point=FFFFFF" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=namonsi&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -116,23 +116,21 @@
 
 | Project | Description |
 |---------|-------------|
-| 🏢 **Enterprise CRM** | Scalable CRM system built with Laravel & React – used by 50+ internal teams |
-| 🎨 **Portfolio Platform** | Dynamic portfolio builder for creatives (WordPress + custom theme) |
-| 📱 **Ethio Events** | React Native mobile app showcasing local events in Addis |
-
-> *Replace with your actual projects – these are just examples.*
+| 🏢 **Enterprise CRM** | Full-featured CRM system built with Laravel & React – used internally by 50+ staff |
+| 🎨 **Creative Portfolio** | Custom WordPress theme with motion graphics integration for artists |
+| 📱 **Ethio Events App** | React Native mobile app showcasing local events and venues in Addis |
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/namonsi" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="50"/>
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
   &nbsp;&nbsp;
