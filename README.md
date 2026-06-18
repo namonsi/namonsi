@@ -41,12 +41,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=namonsi&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namonsi&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=namonsi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namonsi&layout=compact&theme=default&hide_border=true&count_private=true&hide=namonsi" alt="Top Languages"/>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namonsi&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namonsi&theme=default&hide_border=true&count_private=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
