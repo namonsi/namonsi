@@ -47,7 +47,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=namonsi&theme=default&hide_border=true&count_private=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=namonsi&theme=default&hide_border=true&count_private=true&cache_bypass=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -68,9 +68,9 @@
 
 | Project | Description |
 |---------|-------------|
-| 🏢 **Enterprise CRM** | Laravel + React CRM used by 50+ internal staff |
+| 🏢 **BNB Property mangment** | Laravel + React CRM used by 50+ internal staff |
 | 🎨 **Creative Portfolio** | Custom WordPress theme with motion graphics |
-| 📱 **Ethio Events App** | React Native app for local events in Addis |
+| 📱 **Sure Delivery** | React Native app for local events in Addis |
 
 ---
 
