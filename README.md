@@ -41,16 +41,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=namonsi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namonsi&layout=compact&theme=default&hide_border=true&count_private=true&hide=namonsi" alt="Top Languages"/>
+  <!-- Swapped to an ultra-stable, rate-limit proof summary widget -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namonsi&theme=default" alt="GitHub Details" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namonsi&theme=default" alt="Most Committed Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=namonsi&theme=default&hide_border=true&count_private=true&cache_bypass=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+  <!-- Replaced the broken streak card with a stable interactive contribution graph tool -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namonsi&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
@@ -68,9 +65,9 @@
 
 | Project | Description |
 |---------|-------------|
-| 🏢 **BNB Property mangment** | Laravel + React CRM used by 50+ internal staff |
+| 🏢 **Enterprise CRM** | Laravel + React CRM used by 50+ internal staff |
 | 🎨 **Creative Portfolio** | Custom WordPress theme with motion graphics |
-| 📱 **Sure Delivery** | React Native app for local events in Addis |
+| 📱 **Ethio Events App** | React Native app for local events in Addis |
 
 ---
 
