@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Profile-View%20on%20GitHub-3A7BD5?style=for-the-badge&logo=github" alt="GitHub Profile">
   </a>
   <a href="https://nahom.ct.ws">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-00D2FF?style=for-the-badge&logo=web" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Profile-Visit%20My%20Site-00D2FF?style=for-the-badge&logo=web" alt="Portfolio">
   </a>
 </p>
 
@@ -41,13 +41,16 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Swapped to an ultra-stable, rate-limit proof summary widget -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namonsi&theme=default" alt="GitHub Details" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namonsi&theme=default" alt="Most Committed Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=namonsi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namonsi&layout=compact&theme=default&hide_border=true&count_private=true&hide=namonsi" alt="Top Languages"/>
 </div>
 
 <p align="center">
-  <!-- Replaced the broken streak card with a stable interactive contribution graph tool -->
+  <!-- Restored Streak Card using an alternative stable mirror endpoint -->
+  <img src="https://github-readme-streak-stats-two.vercel.app/?user=namonsi&theme=default&hide_border=true&count_private=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namonsi&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
