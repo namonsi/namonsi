@@ -47,7 +47,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namonsi&theme=default&hide_border=true&count_private=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=namonsi&theme=default&hide_border=true&count_private=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
