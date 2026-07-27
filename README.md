@@ -45,14 +45,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namonsi&layout=compact&theme=default&hide_border=true&count_private=true&hide=namonsi" alt="Top Languages"/>
 </div>
 
-<p align="center">
-  <!-- Restored Streak Card using an alternative stable mirror endpoint -->
-  <img src="https://github-readme-streak-stats-two.vercel.app/?user=namonsi&theme=default&hide_border=true&count_private=true" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namonsi&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
 
 ---
 
